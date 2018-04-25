@@ -43,6 +43,10 @@ Few of the codes are non-deployable, these are for refernce/knowledge only
 
 * Bharath Varma - *Initial work* - __[MTW Labs](www.mtwlabs.com)__
 
+## License
+
+This project is licensed under the MTW Labs License. (Lisence to be issued)
+
 ## Acknowledgments
 
 * The content is extracted from __[Wikipedia](https://www.wikipedia.org/)__, __[GeeksforGeeks](https://www.geeksforgeeks.org)__, and a few other knowledge sharing websites
