@@ -47,7 +47,7 @@ Few of the codes are non-deployable, these are for refernce/knowledge only
 
 ## Authors
 
-* Bharath Varma - *Initial work* - __[MTW Labs](www.mtwlabs.com)__
+* Bharath Varma - *Initial work* - __[MTW Labs](https://www.mtwlabs.com/)__
 
 ## License
 
