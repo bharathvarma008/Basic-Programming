@@ -7,11 +7,11 @@ This is a gentle introduction (with code samples in C++ and JavaScript) to progr
 The content is intended to those who are new to programming and to those who'd like to refer the basics. I've created C/C++ and JavaScript code samples for respective algorithms and techniques.
 
 ### Contents
-* [Data Structures](#Data-Structures.ipynb)
-* [Search Algorithms](#Searching.ipynb)
-* [Sorting Algorithms](#Sorting.ipynb)
-* [C++ Scripts](#C++-Scripts)
-* [JavaScript Scripts](#JavaSscript-Scripts)
+* __[Data Structures](https://github.com/bharathvarma008/Basic-Programming/blob/master/Data%20Structures.ipynb)__
+* __[Search Algorithms](https://github.com/bharathvarma008/Basic-Programming/blob/master/Searching.ipynb)__
+* __[Sorting Algorithms](https://github.com/bharathvarma008/Basic-Programming/blob/master/Sorting.ipynb)__
+* __[C++ Scripts](https://github.com/bharathvarma008/Basic-Programming/tree/master/C%2B%2B%20Scripts)__
+* __[JavaScript Scripts](https://github.com/bharathvarma008/Basic-Programming/tree/master/JavaSscript%20Scriptss)__
 
 ## Prerequisites
 
