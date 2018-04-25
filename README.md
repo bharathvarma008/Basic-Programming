@@ -51,7 +51,7 @@ Few of the codes are non-deployable, these are for refernce/knowledge only
 
 ## License
 
-This project is licensed under the MTW Labs License. (Lisence to be issued)
+This project is licensed under the MTW Labs License. (License to be issued)
 
 ## Acknowledgments
 
