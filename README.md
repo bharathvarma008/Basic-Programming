@@ -6,6 +6,12 @@ This is a gentle introduction (with code samples in C++ and JavaScript) to progr
 
 The content is intended to those who are new to programming and to those who'd like to refer the basics. I've created C/C++ and JavaScript code samples for respective algorithms and techniques.
 
+### Contents
+* [Data Structures](#Data Structures.ipynb)
+* [Search Algorithms](#Searching.ipynb)
+* [Sorting Algorithms](#Sorting.ipynb)
+* [C++ Scripts](#C++-Scripts)
+* [JavaScript Scripts](#JavaSscript-Scripts)
 
 ## Prerequisites
 
