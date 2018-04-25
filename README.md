@@ -35,7 +35,7 @@ Few of the codes are non-deployable, these are for refernce/knowledge only
 
 ## Built With
 
-* (Jupyter Notebooks)[http://jupyter.org/]
+* __[Jupyter Notebooks](http://jupyter.org/)__
 * C/C++
 * Javascript
 
