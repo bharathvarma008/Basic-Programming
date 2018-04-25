@@ -41,10 +41,10 @@ Few of the codes are non-deployable, these are for refernce/knowledge only
 
 ## Authors
 
-* Bharath Varma - *Initial work* - MTW Labs
+* Bharath Varma - *Initial work* - __[MTW Labs](www.mtwlabs.com)__
 
 ## Acknowledgments
 
-* The content is extracted from Wikipedia[https://www.wikipedia.org/], GeeksforGeeks[https://www.geeksforgeeks.org], and a few other knowledge sharing websites
+* The content is extracted from __[Wikipedia](https://www.wikipedia.org/)__, __[GeeksforGeeks](https://www.geeksforgeeks.org)__, and a few other knowledge sharing websites
 * This knowledge bank is built to address the developer community, at MTW Labs, for people who are new to programming and Knowledge Transfer
-* Thanks to Rohith Reddy[https://www.linkedin.com/in/rohithreddygopu/] for encouraging me to do this.
+* Thanks to __[Rohith Reddy](https://www.linkedin.com/in/rohithreddygopu/)__ for encouraging me to do this.
