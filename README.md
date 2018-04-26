@@ -11,7 +11,7 @@ The content is intended to those who are new to programming and to those who'd l
 * __[Search Algorithms](https://github.com/bharathvarma008/Basic-Programming/blob/master/Searching.ipynb)__
 * __[Sorting Algorithms](https://github.com/bharathvarma008/Basic-Programming/blob/master/Sorting.ipynb)__
 * __[C++ Scripts](https://github.com/bharathvarma008/Basic-Programming/tree/master/C%2B%2B%20Scripts)__
-* __[JavaScript Scripts](https://github.com/bharathvarma008/Basic-Programming/tree/master/JavaSscript%20Scriptss)__
+* __[JavaScript Scripts](https://github.com/bharathvarma008/Basic-Programming/tree/master/JavaSscript%20Scripts)__
 
 ## Prerequisites
 
